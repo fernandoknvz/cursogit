@@ -1,1 +1,1 @@
-print("ahora tengo otra idea")
+print("cursogit solo")
